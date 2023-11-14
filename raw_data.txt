@@ -1,0 +1,5 @@
+아파트	브랜드	val1	val2
+A	REF	5	0.3
+A	TEST	3	0.5
+B	REF	7	1.2
+B	TEST	9	0.8
